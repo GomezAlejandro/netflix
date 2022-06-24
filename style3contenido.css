@@ -1,0 +1,162 @@
+body{
+    background-image: url("src/netflix13.jpg");
+}
+
+.portada{
+    width: 1348px;
+    height: 1000px;
+
+}
+
+.logo10{
+    top: 5px;
+left: 10px;
+    position: absolute;
+    width: 100px;
+    height: auto;
+}
+
+.lista{
+    position: absolute;
+    top: 22px;
+    left: 90px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.menus, ul, li{
+    
+    display: inline-block;
+}
+
+li{
+    margin: 5px;
+}
+
+ul{
+    margin-top: 0px;
+}
+
+.perfilchiquito{
+    position: absolute;
+    top: 0px;
+    left: 1135px;
+    width: 50px;
+    height: 50px;
+    border-radius: 7px;
+}
+.viki{
+    position: absolute;
+    top: 290px;
+    left: 35px;
+    width: 220px;
+    height: 110px;
+    border-radius: 7px;
+}
+
+.n{
+    position: absolute;
+    top: 260px;
+    left: 55px;
+    width: 20px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+.che2{
+    position: absolute;
+    color: white;
+    width: 200px;
+    height: 30px;
+    top:255px;
+    left: 0px;
+    font-size: 16px;
+    text-align: center;
+    border: 0px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reproducir{
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    border: 0px;
+    border-radius: 5px;
+    top:400px;
+}
+
+.mas{
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    background-color: rgba(87, 85, 85, 0.521);
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    border: 0px;
+    border-radius: 5px;
+    top:400px;
+    left: 210px;
+}
+
+.tirauno{
+    position: absolute;
+    width: 923px;
+    height: 180px;
+    margin: 0px;
+    /* background-color: aqua; */
+    top: 550px;
+    left: 130px;
+}
+
+.tamaño{
+    width: 180px;
+    height:180px;
+    margin: 0px;
+    display: inline-block;
+}
+
+.g{
+    position: absolute;
+    color: white;
+    /* background-color: aqua; */
+    width: 200px;
+    height: 30px;
+    top: 510px;
+    left: 70px;
+    font-size: 19px;
+    text-align: center;
+    border: 0px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.g2{
+    position: absolute;
+    color: white;
+    /* background-color: aqua; */
+    width: 200px;
+    height: 30px;
+    top: 735px;
+    left: 90px;
+    font-size: 19px;
+    text-align: center;
+    border: 0px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tirados{
+    position: absolute;
+    width: 923px;
+    height: 180px;
+    margin: 0px;
+    /* background-color: aqua; */
+    top: 780px;
+    left: 130px;
+}
